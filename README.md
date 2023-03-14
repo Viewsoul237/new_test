@@ -1,2 +1,2 @@
 # privet, **Guest
-Some_text  some_**boldtext
+Some_text  some_**boldtext**
